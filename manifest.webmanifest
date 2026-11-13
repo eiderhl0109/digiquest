@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "DigiQuest · examen de Digitalización",
+  "short_name": "DigiQuest",
+  "description": "Hardware, virtualización, Hyper-V con sus conmutadores e instalar Windows 10, con 207 preguntas de test, simulacro y práctica.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef3f1",
+  "theme_color": "#0f2a2e",
+  "categories": ["education"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
